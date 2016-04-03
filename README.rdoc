@@ -1,4 +1,3 @@
-== README
 {<img src="screens/logo.png" alt="Docker TOGGLE" />}[https://github.com/aswinrkrishnan/docker-toggle]
 
 
