@@ -1,5 +1,5 @@
 == README
-{<img src="screens/logo" alt="Docker TOGGLE" />}[https://github.com/aswinrkrishnan/docker-toggle]
+{<img src="screens/logo.png" alt="Docker TOGGLE" />}[https://github.com/aswinrkrishnan/docker-toggle]
 
 
 Docker Toggle is an application which connects to Docker Remote api.
